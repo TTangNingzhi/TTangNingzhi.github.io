@@ -51,8 +51,12 @@ body {
     }
 
     #p-name {
-        font-size: 21pt;
-        margin-bottom: -14pt;
+        font-size: 24pt;
+        margin-bottom: -17pt;
+    }
+
+    span {
+        font-size: 14pt;
     }
 }
 
