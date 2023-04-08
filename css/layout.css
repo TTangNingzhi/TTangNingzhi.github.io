@@ -25,6 +25,11 @@ body {
     width: 80%;
 }
 
+#p-name {
+    font-size: 15pt;
+    margin-bottom: -10pt;
+}
+
 @media only screen and (max-width: 57.8125em), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2) {
     body {
         margin-left: 5%;
@@ -43,6 +48,11 @@ body {
 
     #img-me {
         width: 30%;
+    }
+
+    #p-name {
+        font-size: 21pt;
+        margin-bottom: -14pt;
     }
 }
 
