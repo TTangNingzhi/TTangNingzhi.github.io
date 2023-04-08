@@ -58,6 +58,11 @@ body {
     span {
         font-size: 14pt;
     }
+
+    svg {
+        width: 16.8pt;
+        height: 16.8pt;
+    }
 }
 
 a {
