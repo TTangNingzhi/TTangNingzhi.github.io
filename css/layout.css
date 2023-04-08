@@ -20,6 +20,31 @@ body {
     color: #303030;
 }
 
+#img-me {
+    border-radius: 80%;
+    width: 80%;
+}
+
+@media not screen and (min-width: 800px) {
+    body {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .sidebar {
+        width: 100%;
+        float: none;
+    }
+
+    .main {
+        margin-left: 0;
+    }
+
+    #img-me {
+        width: 30%;
+    }
+}
+
 a {
     text-decoration: none;
     color: darkgoldenrod;
@@ -63,7 +88,7 @@ span {
     background-color: darkgoldenrod;
     opacity: 0.5;
     width: 96%;
-    height: 100px;
+    height: auto;
     border-radius: 20px;
     padding-left: 2%;
     padding-right: 2%;
