@@ -93,6 +93,7 @@ path {
         width: 100%;
         float: none;
         font-size: 14pt;
+        /*text-align: center;*/
     }
 
     .main {
